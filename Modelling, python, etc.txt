@@ -1,0 +1,8 @@
+How to control random numbers in python?
+
+What would you highlight in below classification metrics?
+Recall=0,631
+Precision=0,788
+F1 Score=0,603
+
+What is the main benefit of serializing a model?
